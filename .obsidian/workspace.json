@@ -11,10 +11,14 @@
             "id": "751862280ff82e1c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/SSE in Next.js – Real-Time Notifications.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SSE in Next.js – Real-Time Notifications"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/SSE in Next.js – Real-Time Notifications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SSE in Next.js – Real-Time Notifications"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/SSE in Next.js – Real-Time Notifications.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SSE in Next.js – Real-Time Notifications"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Frontend/SSE in Next.js – Real-Time Notifications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SSE in Next.js – Real-Time Notifications"
             }
           },
           {
@@ -187,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "324e3d010f7e5f07",
+  "active": "8a01d24fbcb38a2a",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled.base",
     "Backend/BullMQ/07 - Bull Board & Docker.md",
+    "Frontend/SSE in Next.js – Real-Time Notifications.md",
+    "Frontend",
     "Backend/BullMQ/06 - Events & DLQ.md",
     "Backend/BullMQ/05 - Flow (Parent-Child).md",
     "Backend/BullMQ/04 - Cron & Delayed Jobs.md",
@@ -199,11 +206,13 @@
     "Backend/BullMQ/02 - Producer & Consumer.md",
     "Backend/BullMQ/01 - Setup & Config.md",
     "Backend/BullMQ/00 - Hello.md",
+    "README.md",
+    "Untitled.base",
     "Backend/BullMQ",
     "Backend",
-    "React/Zustand.md",
-    "React/TanTack.md",
-    "React",
+    "Frontend/React/Zustand.md",
+    "Frontend/React/TanTack.md",
+    "Frontend/React",
     "Mới biết/How To Install and Use Docker on Ubuntu.md",
     "Mới biết/Database search keyword 'Trigram'.md",
     "Mới biết/Caching.md",
