@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "081b30cabc73d033",
+        "id": "6c068bf061b326fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b23c214003bf9fbd",
+            "id": "751862280ff82e1c",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks"
             }
           },
           {
@@ -112,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -155,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.base",
+                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -193,10 +188,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b23c214003bf9fbd",
+  "active": "8a01d24fbcb38a2a",
   "lastOpenFiles": [
-    "Untitled.base",
+    "Backend/BullMQ/07 - Bull Board & Docker.md",
+    "Backend/BullMQ/06 - Events & DLQ.md",
+    "Backend/BullMQ/05 - Flow (Parent-Child).md",
+    "Backend/BullMQ/04 - Cron & Delayed Jobs.md",
+    "Backend/BullMQ/03 - Job Options & Lifecycle.md",
+    "Backend/BullMQ/02 - Producer & Consumer.md",
+    "Backend/BullMQ/01 - Setup & Config.md",
+    "Backend/BullMQ/00 - Hello.md",
+    "Backend/BullMQ",
+    "Backend",
+    "React/Zustand.md",
+    "React/TanTack.md",
+    "React",
+    "Mới biết/How To Install and Use Docker on Ubuntu.md",
+    "Mới biết/Database search keyword 'Trigram'.md",
+    "Mới biết/Caching.md",
+    "Mới biết/Bẫy Index trong database.md",
+    "Mới biết",
+    "Mircoservices",
     "Untitled 1.base",
+    "Untitled.base",
     "README.md"
   ]
 }
