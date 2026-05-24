@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline"
             }
           },
           {
@@ -188,8 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a01d24fbcb38a2a",
+  "active": "324e3d010f7e5f07",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.base",
     "Backend/BullMQ/07 - Bull Board & Docker.md",
     "Backend/BullMQ/06 - Events & DLQ.md",
     "Backend/BullMQ/05 - Flow (Parent-Child).md",
@@ -209,8 +210,6 @@
     "Mới biết/Bẫy Index trong database.md",
     "Mới biết",
     "Mircoservices",
-    "Untitled 1.base",
-    "Untitled.base",
-    "README.md"
+    "Untitled 1.base"
   ]
 }
