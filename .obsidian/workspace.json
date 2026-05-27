@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup Projects/Nest, Next, Docker.md",
-                "mode": "source",
+                "file": "Backend/BullMQ/Speed Run.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nest, Next, Docker"
+              "title": "Speed Run"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "e7df79d599b9b874",
@@ -194,25 +194,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a01d24fbcb38a2a",
+  "active": "751862280ff82e1c",
   "lastOpenFiles": [
-    "Setup Projects/Pasted image 20260527080108.png",
+    "Backend/BullMQ/Pasted image 20260527162211.png",
+    "Backend/BullMQ/01 - Setup & Config.md",
+    "Backend/BullMQ/Speed Run.md",
+    "Backend/BullMQ/00 - Hello.md",
+    "Backend/BullMQ/07 - Bull Board & Docker.md",
+    "Backend/BullMQ/06 - Events & DLQ.md",
+    "Backend/BullMQ/02 - Producer & Consumer.md",
+    "Backend/Transaction/PostgreSQL.md",
     "Setup Projects/Nest, Next, Docker.md",
+    "Setup Projects/Pasted image 20260527080108.png",
+    "Backend/Transaction",
     "ENGLISH/New words/24-05-2026.md",
     "Setup Projects",
     "Frontend/SSE in Next.js – Real-Time Notifications.md",
     "ENGLISH/New words",
     "ENGLISH/Untitled.md",
     "ENGLISH",
-    "Backend/BullMQ/07 - Bull Board & Docker.md",
     "Frontend",
-    "Backend/BullMQ/06 - Events & DLQ.md",
     "Backend/BullMQ/05 - Flow (Parent-Child).md",
     "Backend/BullMQ/04 - Cron & Delayed Jobs.md",
     "Backend/BullMQ/03 - Job Options & Lifecycle.md",
-    "Backend/BullMQ/02 - Producer & Consumer.md",
-    "Backend/BullMQ/01 - Setup & Config.md",
-    "Backend/BullMQ/00 - Hello.md",
     "README.md",
     "Untitled.base",
     "Backend/BullMQ",
@@ -224,7 +228,6 @@
     "Mới biết/Database search keyword 'Trigram'.md",
     "Mới biết/Caching.md",
     "Mới biết/Bẫy Index trong database.md",
-    "Mới biết",
-    "Mircoservices"
+    "Mới biết"
   ]
 }
