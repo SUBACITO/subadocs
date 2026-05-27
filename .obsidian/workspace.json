@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENGLISH/New words/24-05-2026.md",
+                "file": "Setup Projects/Nest, Next, Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-05-2026"
+              "title": "Nest, Next, Docker"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "751862280ff82e1c",
+  "active": "8a01d24fbcb38a2a",
   "lastOpenFiles": [
-    "Frontend/SSE in Next.js – Real-Time Notifications.md",
+    "Setup Projects/Pasted image 20260527080108.png",
+    "Setup Projects/Nest, Next, Docker.md",
     "ENGLISH/New words/24-05-2026.md",
+    "Setup Projects",
+    "Frontend/SSE in Next.js – Real-Time Notifications.md",
     "ENGLISH/New words",
     "ENGLISH/Untitled.md",
     "ENGLISH",
@@ -223,7 +225,6 @@
     "Mới biết/Caching.md",
     "Mới biết/Bẫy Index trong database.md",
     "Mới biết",
-    "Mircoservices",
-    "Untitled 1.base"
+    "Mircoservices"
   ]
 }
