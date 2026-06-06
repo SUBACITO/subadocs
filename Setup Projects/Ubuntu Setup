@@ -1,0 +1,69 @@
+### Bước 1 — Cập nhật hệ thống
+
+bash
+
+```bash
+sudo apt update && sudo apt upgrade -y
+```
+
+### Bước 2 — Cài UFW (nếu chưa có)
+
+Ubuntu thường đã có sẵn, kiểm tra:
+
+bash
+
+```bash
+sudo apt install ufw -y
+```
+
+### Bước 3 — Cấu hình firewall
+
+**Quan trọng: Cho phép SSH trước, tránh bị khóa ngoài server.**
+
+bash
+
+```bash
+# Đặt policy mặc định: chặn tất cả incoming, cho phép outgoing
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+
+# Cho phép SSH port 22
+sudo ufw allow 22/tcp
+
+# Bật firewall
+sudo ufw enable
+```
+
+### Bước 4 — Kiểm tra trạng thái
+
+bash
+
+```bash
+sudo ufw status verbose
+```
+
+Output mong đợi:
+
+```
+Status: active
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW IN    Anywhere
+22/tcp (v6)                ALLOW IN    Anywhere (v6)
+```
+
+### Một số lệnh hữu ích
+
+|Lệnh|Mục đích|
+|---|---|
+|`sudo ufw status numbered`|Xem rules kèm số thứ tự|
+|`sudo ufw delete 2`|Xóa rule số 2|
+|`sudo ufw allow 80/tcp`|Mở thêm port 80 (HTTP) sau này|
+|`sudo ufw allow 443/tcp`|Mở thêm port 443 (HTTPS)|
+|`sudo ufw disable`|Tắt firewall tạm thời|
+|`sudo ufw reset`|Reset toàn bộ rules|
+
+---
+
+> **Lưu ý:** Nếu VPS có nhiều IP hoặc dùng cloud provider (AWS, GCP, DigitalOcean...), kiểm tra thêm **Security Group / Network Firewall** ở dashboard của nhà cung cấp — UFW chỉ là firewall cấp OS.
